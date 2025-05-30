@@ -1,6 +1,7 @@
 # Node modules (npm/yarn)
 node_modules/
 
+
 # Build outputs
 dist/
 build/
@@ -8,6 +9,7 @@ public/build/
 
 # Tailwind generated CSS (optional if it's built)
 *.css
+
 
 # Logs
 npm-debug.log*
